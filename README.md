@@ -1,6 +1,6 @@
 # Towards Human-AI Complementarity with Predictions Sets
 
-TThis repository is the official implementation of [Towards Human-AI Complementarity with Predictions Sets](#).
+This repository is the official implementation of [Towards Human-AI Complementarity with Predictions Sets](#).
 
 ## Requirements
 
