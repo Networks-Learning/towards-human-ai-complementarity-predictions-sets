@@ -1,0 +1,13 @@
+results/1000-10-20-1000-True-False-1-confusion_matrices.pickle filter=lfs diff=lfs merge=lfs -text
+results/1000-25-20-1000-True-True-1-prediction_sets.pickle filter=lfs diff=lfs merge=lfs -text
+results/real_data-epoch10-800-top-k-25-10-5-False-all-ground_truth.pickle filter=lfs diff=lfs merge=lfs -text
+results/real_data-epoch10-800-top-k-25-10-5-False-all-confusion_matrices.pickle filter=lfs diff=lfs merge=lfs -text
+results/1000-10-20-1000-True-False-1-ground_truth.pickle filter=lfs diff=lfs merge=lfs -text
+results/1000-10-20-1000-True-False-1-prediction_sets.pickle filter=lfs diff=lfs merge=lfs -text
+results/1000-25-20-1000-True-True-1-confusion_matrices.pickle filter=lfs diff=lfs merge=lfs -text
+results/1000-25-20-1000-True-True-1-ground_truth.pickle filter=lfs diff=lfs merge=lfs -text
+results/1000-50-20-1000-True-True-1-confusion_matrices.pickle filter=lfs diff=lfs merge=lfs -text
+results/1000-50-20-1000-True-True-1-ground_truth.pickle filter=lfs diff=lfs merge=lfs -text
+results/1000-50-20-1000-True-True-1-prediction_sets.pickle filter=lfs diff=lfs merge=lfs -text
+results/real_data-epoch10-800-top-k-25-10-5-False-all-prediction_sets_alphas.pickle filter=lfs diff=lfs merge=lfs -text
+results/real_data-epoch10-800-top-k-25-10-5-False-all-prediction_sets.pickle filter=lfs diff=lfs merge=lfs -text
