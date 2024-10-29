@@ -1,6 +1,6 @@
-# Towards Human-AI Complementarity with Predictions Sets
+# Towards Human-AI Complementarity with Prediction Sets
 
-This repository is the official implementation of [Towards Human-AI Complementarity with Predictions Sets](https://arxiv.org/abs/2405.17544).
+This repository is the official implementation of [Towards Human-AI Complementarity with Prediction Sets](https://arxiv.org/abs/2405.17544).
 
 ## Requirements
 
@@ -57,7 +57,7 @@ The directories have the following content:
 If you use parts of the code in this repository for your research purposes, please consider citing:
 ```
 @article{detoni2024humanai,
-      title={Towards Human-AI Complementarity with Predictions Sets}, 
+      title={Towards Human-AI Complementarity with Prediction Sets}, 
       author={Giovanni De Toni and Nastaran Okati and Suhas Thejaswi and Eleni Straitouri and Manuel Gomez-Rodriguez},
       year={2024},
       journal={arXiv preprint arXiv:2405.17544}
